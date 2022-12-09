@@ -18,3 +18,6 @@ SOURCE CODE
 
 VID OF IT WORKING
 [video](https://sd43bcca-my.sharepoint.com/:v:/r/personal/132-hboyd_sd43_bc_ca/Documents/Grade%2012/comp/musicmicrobit.MOV?csf=1&web=1&e=rGAmzs)
+
+CITATIONS
+[cites](https://youtu.be/KeDfiPpxz2I)
