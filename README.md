@@ -17,7 +17,9 @@ SOURCE CODE
 [code](https://makecode.microbit.org/60057-98214-34183-83354)
 
 VID OF IT WORKING
+
 [video](https://sd43bcca-my.sharepoint.com/:v:/r/personal/132-hboyd_sd43_bc_ca/Documents/Grade%2012/comp/musicmicrobit.MOV?csf=1&web=1&e=rGAmzs)
 
 CITATIONS
+
 [cites](https://youtu.be/KeDfiPpxz2I)
