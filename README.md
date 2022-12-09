@@ -2,7 +2,7 @@
 README for me and hannahs latest microbit project
 
 # SENSOR PROJECT USING MICROBIT
-this prOject included using a microbit, a buzzer, a vibration motor, and several leds. We code our microbit to play specific songs when specific buttons were pressed, and to have the lights filcker in accorandance to the music. When the microbit was tilted left the volume was lowered, tilted right ment it was raised. When the volume got too high the vribration motor would go off and alert yuou that the volume was too  high for safe levels. The songs we coded our buzzer to play was the among us theme, buddy holly riff, and others. 
+this project included using a microbit, a buzzer, a vibration motor, and several leds. We code our microbit to play specific songs when specific buttons were pressed, and to have the lights filcker in accorandance to the music. When the microbit was tilted left the volume was lowered, tilted right ment it was raised. When the volume got too high the vribration motor would go off and alert yuou that the volume was too  high for safe levels. The songs we coded our buzzer to play was the among us theme, buddy holly riff, and others. 
 
 <br>HOW TO MAKE THIS
 <br>1-get all necccessary supplies: innovater micromaker kit- vibration motor, buzzer, microbit, leds, breakout board, 9v battery, micro usb cable 
@@ -14,7 +14,7 @@ this prOject included using a microbit, a buzzer, a vibration motor, and several
 
 SOURCE CODE
 
-https://makecode.microbit.org/60057-98214-34183-83354
+[code](https://makecode.microbit.org/60057-98214-34183-83354)
 
 VID OF IT WORKING
-https://sd43bcca-my.sharepoint.com/:v:/r/personal/132-hboyd_sd43_bc_ca/Documents/Grade%2012/comp/musicmicrobit.MOV?csf=1&web=1&e=rGAmzs
+[video](https://sd43bcca-my.sharepoint.com/:v:/r/personal/132-hboyd_sd43_bc_ca/Documents/Grade%2012/comp/musicmicrobit.MOV?csf=1&web=1&e=rGAmzs)
